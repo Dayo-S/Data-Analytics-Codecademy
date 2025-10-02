@@ -16,9 +16,6 @@ Query Hacker News data to uncover posting patterns and engagement metrics.
 ### 4. Trends in Startups
 Apply SQL aggregate functions to explore startup funding and growth trends.
 
-### 5. Create a Table
-Design and implement SQL tables to simulate real-world schema creation.
-
 ## How to Run
 Each project includes a `.sql` or `.py` file with comments and instructions. You can run Python projects locally or in Jupyter notebooks. SQL projects can be tested using SQLite or any SQL IDE.
 
