@@ -7,22 +7,16 @@ This repository contains a curated set of practice projects completed through Co
 ### 1. Python Functions: Medical Insurance
 Estimate insurance costs using custom Python functions. Focuses on arithmetic operations and function design.
 
-### 2. Python Syntax: Medical Insurance
-A simpler version of the above, emphasizing Python syntax and basic calculations.
-
-### 3. Lyft Trip Data
+### 2. Lyft Trip Data
 Use SQL to analyze ride-sharing data across multiple tables. Demonstrates joins and relational logic.
 
-### 4. Analyze Hacker News Trends
+### 3. Analyze Hacker News Trends
 Query Hacker News data to uncover posting patterns and engagement metrics.
 
-### 5. Trends in Startups
+### 4. Trends in Startups
 Apply SQL aggregate functions to explore startup funding and growth trends.
 
-### 6. New York Restaurants
-Practice writing common SQL queries on restaurant inspection data.
-
-### 7. Create a Table
+### 5. Create a Table
 Design and implement SQL tables to simulate real-world schema creation.
 
 ## How to Run
